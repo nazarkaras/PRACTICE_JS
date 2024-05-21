@@ -1,0 +1,16 @@
+#field {
+    border-collapse: collapse;
+    margin-left: 40%;
+}
+  
+#field td {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 48px;
+    cursor: pointer;
+}
+
+
+  

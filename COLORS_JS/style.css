@@ -1,0 +1,27 @@
+#field td {
+	margin: auto;
+	width: 100px;
+	height: 100px;
+	border: 1px solid black;
+	text-align: center;
+	font-weight: bold;
+}
+
+body{
+	background-image: url(fon.jpg);
+}
+table{
+	margin-left: 42%;
+}
+h1{
+	text-align: center;
+}
+.red {
+	background: red;
+}
+.green {
+	background: green;
+}
+.blue {
+	background: blue;
+}
